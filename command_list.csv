@@ -1,0 +1,94 @@
+    1  man ln
+    2  man ls
+    3  help ls
+    4  ls
+    5  cd
+    6  help ls
+    7  cd
+    8  terminal
+    9  ls
+   10  clear
+   11  ls
+   12  cd
+   13  ln
+   14  ls
+   15  cd
+   16  cd Desctop
+   17  cd Desktop
+   18  cd ..
+   19  cd ~
+   20  ls
+   21  cd Desktop
+   22  ls
+   23  cd D
+   24  mkdir Lesson
+   25  nanj
+   26  cd Git
+   27  cd
+   28  cd Git
+   29  clear
+   30  cd Git
+   31  cd Git
+   32  ls
+   33  cd Git
+   34  cd Desktop
+   35  
+   36  git config   --global user.name "Yana Zolotova"
+   37  git config   --global user.email yanazolotova1010@gmail.com
+   38  git clone https://github.com/yanazolotova1010-afk/HW_10.git
+   39  cd HW_10/
+   40  touch  text_ignore.txt 
+   41  git status
+   42  git add  text_ignore.txt
+   43  git commit -m "New file created"
+   44  touch  main_test.txt
+   45  git add
+   46  git commit -m "New file created1"
+   47  [200~git commit -m "New file created
+
+git add
+git branch
+   48  git branch
+   49  git checkout – b develop 
+   50  git checkout – b develop new_branch
+   51  git checkout – bdevelop
+   52   git checkout –b develop
+   53  git checkout –bdevelop
+   54   git checkout –b develop
+   55  git checkout -b develop
+   56  touch develop_test.txt 
+   57  git add .
+   58  git commit -m "New file created3"
+   59  git branch
+   60   git checkout main
+   61  git branch
+   62  git merge develop
+   63  git log -3 
+   64  command_list.csv
+   65  git add .
+   66  git commit -m "New file created5"
+   67  git push
+   68  touch develop_test.txt 
+   69  git add .
+   70  git commit -m "New file created3"
+   71  nano develop_test.txt
+   72  git status
+   73  git add .
+   74  git commit -m "New file created3"
+   75  git status 
+   76  git branch
+   77  git checkout main
+   78  git merge develop
+   79  git log -3
+   80  command_list.csv
+   81  git add .
+   82  git commit -m "New file created5"
+   83  git push 
+   84  history > command_list.csv 
+   85  git push
+   86  git branch
+   87  history > command_list.csv
+   88  git push
+   89  git pull
+   90  git push
+   91  history > command_list.csv
